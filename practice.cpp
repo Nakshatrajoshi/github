@@ -2,11 +2,9 @@
 using namespace std ;
 
 int main(){
-int i ;
-for ( i = 0; i <= 10; i++)
-{
-    cout <<" * "<<endl ;
-}
-
+int a ;
+cout <<" enter the number ";
+cin >> a ;
+cout << a ;
 return 0;
 }
